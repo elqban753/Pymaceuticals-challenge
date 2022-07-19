@@ -1,3 +1,2 @@
 # Pymaceuticals-challenge
-
-## This Folder contains the following
+### This folder contains:
